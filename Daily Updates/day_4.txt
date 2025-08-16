@@ -1,0 +1,8 @@
+For day 4, I started with Neetcode # 4 or Leetcode # 49. I started with sorting the list of strings and using another loop to group them. After spending 30-40 mins, I decided to get help from chatGPT. ChatGPT gave me the solutions and two approaches and it seems like a very simple problem. 
+
+What I learnt today?
+- Time complexity for efficient sorting algorithms is O(nlogn)
+- Usage of defaultdict from collections module to write a cleaner code
+- how we can use ord to get better time complexity for longer strings since it does not require sorting
+- What are various sorting algorithms. I will do a detailed overview for individual algorithms later
+- Built an intuition on how else we can approach grouping problems
