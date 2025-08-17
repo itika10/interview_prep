@@ -1,0 +1,9 @@
+Yesterday, I started with problem # 5. Although I was able to solve it but there is a better approach to solve it using Bucket Sort. I spent good amount of time understanding it. Also, I learnt about Hash Tables, Array list vs list and StringBuilder from Cracking the coding interview book and with the help of Open AI. I also started solving the questions in the book for these topics but then realized that I need to revise the problems that I have also solved in last few days because these problems are essentially the same.
+
+What I learnt?
+- HashTables - how they are stored in the back, retrieved and the similarity to Dictionary in Python
+- Array vs Arraylist(List) - Usage and differences
+
+Also, I need to spend more time on going through the previous problems than just completing the problems because I am at a very basic level. I have also forgotten a lots of python since I have not coded in a long time. My mind is rusted. Also, I need to spend time for upcoming Hackathon and keep building AI projects side by side. 
+
+Now, I will do 2-3 problems per week instead of one problem a day.
